@@ -1,4 +1,3 @@
-@@ -1,35 +1,35 @@
 # ARCO_token
 
 * Network: Ethereum
